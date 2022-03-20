@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org"> <!-- thymeleaf 선언 -->
+<head>
+    <title>Hello</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<p th:text="'안녕하세요. ' +${name}"> hello! empty </p>
+<!-- thymeleaf 장점 중 하나는 서버 엔진 없이도 파일 경로를 열어서 껍데기를 확인할 수 있다
+    hello! empty을 안적어도 무방하지만 써놓으면 그냥 껍데기만 열어보고 싶을 때 열어볼 수 있음-->
+</body>
+</html>

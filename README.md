@@ -13,4 +13,8 @@
 
 1강 [프로젝트 생성](https://youtu.be/cEaPR63Khuo)   
 2강 [라이브러리 살펴보기](https://youtu.be/lqjOqeVzzsc)   
-3강 [View 환경설정](https://youtu.be/tbNfjC4Wwh8)
+3강 [View 환경설정](https://youtu.be/tbNfjC4Wwh8)   
+4강 [빌드하고 실행하기](https://youtu.be/OMm7Hs4q4Sw)   
+5강 [정적컨텐츠](https://youtu.be/FT33eS7qaAc)   
+6강 [MVC와 템플릿 엔진](https://youtu.be/oPvmfm_97es)    
+7강 [API](https://youtu.be/v17ZwTFAL-0)   
