@@ -18,3 +18,5 @@
 5강 [정적컨텐츠](https://youtu.be/FT33eS7qaAc)   
 6강 [MVC와 템플릿 엔진](https://youtu.be/oPvmfm_97es)    
 7강 [API](https://youtu.be/v17ZwTFAL-0)   
+8강 [비즈니스 요구사항 정리](https://youtu.be/bgZPcWsDUuI)
+9강 [회원도메인과 리포지토리 만들기](https://youtu.be/tw1H19txBb0) 

@@ -38,7 +38,7 @@ public class HelloController {
 //        {
 //            "name": "seoyoung"
 //        }
-        return hello; 
+        return hello;
     }
 
     static class Hello{
