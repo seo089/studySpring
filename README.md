@@ -20,4 +20,6 @@
 7강 [API](https://youtu.be/v17ZwTFAL-0)   
 8강 [비즈니스 요구사항 정리](https://youtu.be/bgZPcWsDUuI)  
 9강 [회원도메인과 리포지토리 만들기](https://youtu.be/tw1H19txBb0)  
-10강 [회원도메인과 리포지토리 테스트](https://youtu.be/iWeK9Lfgsss)
+10강 [회원도메인과 리포지토리 테스트](https://youtu.be/iWeK9Lfgsss)   
+11강 [회원서비스 개발](https://youtu.be/iEbRPszh19g)   
+12강 [회원서비스 테스트](https://youtu.be/KPYb-f9xzMQ)
