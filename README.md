@@ -1,15 +1,14 @@
 # study Spring 🌱
 
 ***
-스프링 공부
-
-
 
 * project : Gradle Project
 * Spring Boot : 2.6.4
 * Language : Java
 * Packaging : Jar
 * Java : 11
+
+***스프링 입문 - 코드로 배우는 스프링부트, 웹 MVC, DB 접근 기술 by 김영한***
 
 1강 [프로젝트 생성](https://youtu.be/cEaPR63Khuo)   
 2강 [라이브러리 살펴보기](https://youtu.be/lqjOqeVzzsc)   
@@ -22,4 +21,9 @@
 9강 [회원도메인과 리포지토리 만들기](https://youtu.be/tw1H19txBb0)  
 10강 [회원도메인과 리포지토리 테스트](https://youtu.be/iWeK9Lfgsss)   
 11강 [회원서비스 개발](https://youtu.be/iEbRPszh19g)   
-12강 [회원서비스 테스트](https://youtu.be/KPYb-f9xzMQ)
+12강 [회원서비스 테스트](https://youtu.be/KPYb-f9xzMQ)   
+13강 [컴포넌트 스캔](https://youtu.be/FqYF9vHW-K4)    
+14강 [자바코드로 직접](https://youtu.be/fPanO_f4_Ag)    
+15강 [회원 웹기능 홈 화면 추가](https://youtu.be/StLaE-SFZuk)    
+16강 [회원 웹기능 등록](https://youtu.be/kuMmzVOFyBs)    
+17강 [회원 웹기능 조회](https://youtu.be/nffimOw9DZQ)    
