@@ -6,10 +6,12 @@ import hello.hellospring.repository.MemberRepository;
 import java.util.List;
 import java.util.Optional;
 
+//@Service
 public class MemberService {
 
     private final MemberRepository memberRepository;
 
+    //@Autowired //DI 의존성 주입
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
         //외부에서 준 memberRepository로 객체 생성 ->> 이게 바로 DI
