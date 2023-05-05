@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-
+//순수한 최소 단위, 자바 테스트 -> 단위 테스트가 스프링 테스트보다 훨씬 좋은 테스트일 확률이 높다.
 class MemberServiceTest {
 
     MemberService memberService;

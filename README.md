@@ -27,3 +27,5 @@
 15강 [회원 웹기능 홈 화면 추가](https://youtu.be/StLaE-SFZuk)    
 16강 [회원 웹기능 등록](https://youtu.be/kuMmzVOFyBs)    
 17강 [회원 웹기능 조회](https://youtu.be/nffimOw9DZQ)    
+18강 [h2데이터베이스설치](https://youtu.be/2M8BQE4awRU)  
+19강 [jdbc](https://youtu.be/RUU-QbDVC0M)
