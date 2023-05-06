@@ -31,3 +31,5 @@
 19강 [jdbc](https://youtu.be/RUU-QbDVC0M)  
 20강 [스프링통합테스트](https://youtu.be/YxaYMEAUfDg)  
 21강 [jdbctemplate](https://youtu.be/XOZbQeflUVs)  
+22강 [jpa](https://youtu.be/H9VBDCAtRG8)  
+23강 [springdatajpa](https://youtu.be/xT_Hzi_VPbU)  
