@@ -33,3 +33,7 @@
 21강 [jdbctemplate](https://youtu.be/XOZbQeflUVs)  
 22강 [jpa](https://youtu.be/H9VBDCAtRG8)  
 23강 [springdatajpa](https://youtu.be/xT_Hzi_VPbU)  
+24강 [AOP필요](https://youtu.be/QilORSFdsbs)  
+25강 [AOP적용](https://youtu.be/wCW2PN4IUX8)  
+  
+완강🎉
